@@ -1,0 +1,206 @@
+[
+  {
+    "id": "Raj",
+    "firstName": "Raj",
+    "lastname": "Tripathi",
+    "age": "30"
+  },
+  {
+    "id": "Vikrant",
+    "FirstName": "Vikrant",
+    "lastname": "Singh",
+    "Address": "Noida"
+  },
+  {
+    "id": "Vikrant1",
+    "FirstName": "Vikrant",
+    "lastname": "Tripathi",
+    "Address": "Noida"
+  },
+  {
+    "id": "13",
+    "firstName": "Raj",
+    "lastname": "Tripathi",
+    "age": "30",
+    "Designation": "Sr QA",
+    "Address": "Noida"
+  },
+  {
+    "id": "15",
+    "firstName": "RajKumar",
+    "lastname": "Tripathi",
+    "age": "30",
+    "Designation": "Sr QA",
+    "Address": "Noida"
+  },
+  {
+    "FirstName": "Raj",
+    "ID": "45",
+    "LastName": "Tripathi",
+    "Age": "29",
+    "id": "EEBvlIM"
+  },
+  {
+    "FirstName": "Rahul",
+    "ID": "45",
+    "LastName": "Singh",
+    "Age": "24",
+    "id": "s2QKP-9"
+  },
+  {
+    "FirstName": "Rahul",
+    "ID": "45",
+    "LastName": "Singh",
+    "Age": "24",
+    "id": "VaB31VB"
+  },
+  {
+    "Add": {
+      "HouseNum": "123",
+      "Sector": "1",
+      "Landmarks": "Gaurcity"
+    },
+    "FirstName": "Rahul",
+    "ID": "45",
+    "LastName": "Singh",
+    "Age": "24",
+    "id": "SQo_B1S"
+  },
+  {
+    "Add": {
+      "HouseNum": "123",
+      "Sector": "1",
+      "Landmarks": "Gaurcity"
+    },
+    "FirstName": "Rahul",
+    "id": "45",
+    "LastName": "Singh",
+    "Age": "24"
+  },
+  {
+    "FirstName": "Rahul",
+    "id": "46",
+    "LastName": "Singh",
+    "Age": "24"
+  },
+  {
+    "Address": [
+      {
+        "HouseNum": "17",
+        "Sector": "78",
+        "LandMark": "Near Ryan School"
+      },
+      {
+        "HouseNum": "13",
+        "Sector": "78",
+        "LandMark": "Near Globus"
+      }
+    ],
+    "FirstName": "Rohan",
+    "id": "89",
+    "LastName": "Thakur",
+    "Desig": "TL"
+  },
+  {
+    "firstName": "Raj",
+    "lastName": "Tripathi",
+    "age": "28",
+    "address": "Sector1 Gr.Noida",
+    "id": "super"
+  },
+  {
+    "Add": {
+      "HouseNum": "123",
+      "Sector": "1",
+      "Landmarks": "Gaurcity"
+    },
+    "FirstName": "Rahul",
+    "id": "post",
+    "LastName": "Singh",
+    "Age": "24"
+  },
+  {
+    "Address": [
+      {
+        "HouseNum": "17",
+        "Sector": "78",
+        "LandMark": "Near Ryan School"
+      },
+      {
+        "HouseNum": "13",
+        "Sector": "78",
+        "LandMark": "Near Globus"
+      }
+    ],
+    "FirstName": "Rohan",
+    "id": "basic",
+    "LastName": "Thakur",
+    "Desig": "TL"
+  },
+  {
+    "firstName": "Raj",
+    "lastName": "Tripathi",
+    "age": "28",
+    "address": "Sector1 Gr.Noida",
+    "id": "ecovillege"
+  },
+  {
+    "firstName": "Raj",
+    "lastName": "Tripathi",
+    "age": "28",
+    "address": "Sector1 Gr.Noida",
+    "id": "ecovillege1"
+  },
+  {
+    "firstName": "Vikrat",
+    "lastName": "Singh",
+    "age": "28",
+    "id": "gaur",
+    "address": {
+      "street": "ashokmarg",
+      "landmark": "NearGaurcity",
+      "houseNum": "123",
+      "sector": "Sector12"
+    }
+  },
+  {
+    "firstName": "Rahul",
+    "lastName": "Mahajan",
+    "age": "39",
+    "id": "Mahajan",
+    "address": [
+      {
+        "houseNum": "124",
+        "strretNumber": "DLF",
+        "sector": "sector63",
+        "landmarks": "FortuneCapitals"
+      },
+      {
+        "houseNum": "12",
+        "strretNumber": "DLFCybercity",
+        "sector": "63",
+        "landmarks": "LogixParks"
+      }
+    ]
+  },
+  {
+    "firstName": "Rahul",
+    "lastName": "Mahajan",
+    "age": "39",
+    "id": "Mahajan1",
+    "address": [
+      {
+        "houseNum": "124",
+        "strretNumber": "DLF",
+        "sector": "sector63",
+        "landmarks": "FortuneCapitals"
+      },
+      {
+        "houseNum": "12",
+        "strretNumber": "DLFCybercity",
+        "sector": "63",
+        "landmarks": "LogixParks"
+      }
+    ]
+  }
+]
